@@ -1,0 +1,8 @@
+'El temor de un hombre sabio 7','2','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio','1','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 1','1','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 2','1','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 3','1','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 4','2','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 5','2','Planeta',2011,20.25,'./portadas/temor.jpg'
+'El temor de un hombre sabio 6','2','Planeta',2011,20.25,'./portadas/temor.jpg'
